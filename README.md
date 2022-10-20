@@ -1,7 +1,7 @@
 ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen)
 # Challenge_13_ORM_E-Commerce_Back_End
 ## Description
-This application is a back end for an e-commerce site. It helps e-commerce companies to create, read, update and delete data. This includes categories, products, and tags, from the MYSQL database. It is working on a functional Express.js API and can connect to a database using Sequelize. 
+This application is a back end for an e-commerce site. It helps e-commerce companies to create, read, update and delete data aka CRUD. This includes categories, products, and tags, from the MYSQL database. It is working on a functional Express.js API and can connect to a database using Sequelize. 
 
 
 
